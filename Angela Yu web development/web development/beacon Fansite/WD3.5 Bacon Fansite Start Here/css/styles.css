@@ -1,0 +1,24 @@
+/********************************** TAG Selector*******************************/
+body{
+    background-color: brown;
+}
+h1{
+    color:aquamarine;
+    font-size: 200px;
+}
+img:hover{
+    background-color: gold;
+}
+
+/********************************** Class Selector*****************************/
+.bacon{
+    background-color:chartreuse;
+}
+.midnight{
+    background-color: darkmagenta;
+}
+
+
+.circular{
+    border-radius: 100%;
+}
